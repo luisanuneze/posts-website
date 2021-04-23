@@ -1,0 +1,56 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="CssUnknownProperty" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myCustomPropertiesEnabled" value="true" />
+      <option name="myIgnoreVendorSpecificProperties" value="false" />
+      <option name="myCustomPropertiesList">
+        <value>
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="line-clamp" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="x-data" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="21">
+            <item index="0" class="java.lang.String" itemvalue="nobr" />
+            <item index="1" class="java.lang.String" itemvalue="noembed" />
+            <item index="2" class="java.lang.String" itemvalue="comment" />
+            <item index="3" class="java.lang.String" itemvalue="noscript" />
+            <item index="4" class="java.lang.String" itemvalue="embed" />
+            <item index="5" class="java.lang.String" itemvalue="script" />
+            <item index="6" class="java.lang.String" itemvalue="x-input" />
+            <item index="7" class="java.lang.String" itemvalue="x-button" />
+            <item index="8" class="java.lang.String" itemvalue="x-auth-card" />
+            <item index="9" class="java.lang.String" itemvalue="x-guest-layout" />
+            <item index="10" class="java.lang.String" itemvalue="x-slot" />
+            <item index="11" class="java.lang.String" itemvalue="x-application-logo" />
+            <item index="12" class="java.lang.String" itemvalue="x-auth-validation-errors" />
+            <item index="13" class="java.lang.String" itemvalue="x-label" />
+            <item index="14" class="java.lang.String" itemvalue="x-app-layout" />
+            <item index="15" class="java.lang.String" itemvalue="x-nav-link" />
+            <item index="16" class="java.lang.String" itemvalue="x-dropdown" />
+            <item index="17" class="java.lang.String" itemvalue="div" />
+            <item index="18" class="java.lang.String" itemvalue="x-dropdown-link" />
+            <item index="19" class="java.lang.String" itemvalue="x-responsive-nav-link" />
+            <item index="20" class="java.lang.String" itemvalue="x-follow-button" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+  </profile>
+</component>
